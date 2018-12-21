@@ -1,0 +1,3 @@
+/root/CLionProjects/BankOOP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/root/CLionProjects/BankOOP/cmake-build-debug/CMakeFiles/BankOOP.dir
+/root/CLionProjects/BankOOP/cmake-build-debug/CMakeFiles/edit_cache.dir

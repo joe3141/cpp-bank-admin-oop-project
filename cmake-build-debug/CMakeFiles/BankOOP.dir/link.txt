@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BankOOP.dir/main.cpp.o CMakeFiles/BankOOP.dir/Account.cpp.o CMakeFiles/BankOOP.dir/StudentAccount.cpp.o CMakeFiles/BankOOP.dir/StandardAccount.cpp.o CMakeFiles/BankOOP.dir/Transaction.cpp.o  -o BankOOP 

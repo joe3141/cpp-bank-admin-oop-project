@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/BankOOP/Account.cpp
+iostream
+-
+stdexcept
+-
+algorithm
+-
+Account.h
+/root/CLionProjects/BankOOP/Account.h
+Transaction.h
+/root/CLionProjects/BankOOP/Transaction.h
+
+/root/CLionProjects/BankOOP/Account.h
+string
+-
+vector
+-
+
+/root/CLionProjects/BankOOP/Transaction.h
+string
+-
+Account.h
+/root/CLionProjects/BankOOP/Account.h
+
